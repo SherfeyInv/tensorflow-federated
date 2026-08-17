@@ -105,8 +105,6 @@ scipy==1.17.1
     # via
     #   -r requirements.in
     #   dp-accounting
-setuptools==82.0.0
-    # via tensorflow
 six==1.17.0
     # via
     #   astunparse
